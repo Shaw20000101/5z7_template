@@ -1,0 +1,19 @@
+{
+  "schema": "local_execution_v1",
+  "task_id": null,
+  "attempt_id": null,
+  "status": "planned",
+  "actual_argv": null,
+  "cwd": null,
+  "environment_overrides_without_secrets": {},
+  "started_utc": null,
+  "ended_utc": null,
+  "exit_code": null,
+  "log_path": null,
+  "timing_boundary": null,
+  "elapsed_monotonic_seconds": null,
+  "completed_count": null,
+  "missing_count": null,
+  "resume_location": null,
+  "limitations": []
+}

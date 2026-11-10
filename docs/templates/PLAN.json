@@ -1,0 +1,20 @@
+{
+  "schema": "local_execution_plan_v1",
+  "task_id": null,
+  "attempt_id": null,
+  "status": "planned",
+  "created_utc": null,
+  "goal": null,
+  "authorization_scope": null,
+  "inputs": [],
+  "code_identity": {"commit": null, "dirty": null, "snapshot_sha256": null},
+  "environment": null,
+  "weights_identity": null,
+  "effective_config": {},
+  "seed": null,
+  "budget": null,
+  "planned_argv": [],
+  "output_path": null,
+  "acceptance_criteria": [],
+  "limitations": []
+}
